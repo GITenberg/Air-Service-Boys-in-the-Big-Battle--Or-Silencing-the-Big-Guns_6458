@@ -1,0 +1,23 @@
+_repo: Air-Service-Boys-in-the-Big-Battle--Or-Silencing-the-Big-Guns_6458
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beach, Charles Amory
+    gutenberg_agent_id: '2050'
+    url: http://www.gutenberg.org/2009/agents/2050
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6458'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aeronautics -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- Aerial operations -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Air Service Boys in the Big Battle; Or, Silencing the Big Guns
+url: http://www.gutenberg.org/ebooks/6458
